@@ -1,0 +1,10 @@
+supplier_id,name,country,reliability_score,quality_rating,avg_lead_time_days,gmp_certified,primary_material_categories,payment_terms_days,contact_email
+SUP-001,BioPharma Synthesis AG,Switzerland,0.96,0.98,25,Certified,Active Pharmaceutical Ingredient,45,supply@biopharmasynth.ch
+SUP-002,Apex Active Chemicals Ltd,India,0.88,0.91,28,Certified,Active Pharmaceutical Ingredient,30,orders@apexactivechem.com
+SUP-003,PharmaExcipients Europe GmbH,Germany,0.98,0.99,14,Certified,Excipient,60,global-logistics@pharmaexcipients.de
+SUP-004,PureFormulations Biologics LLC,USA,0.94,0.96,40,Certified,Active Pharmaceutical Ingredient,30,client-supply@pureformbio.com
+SUP-005,SinoPharm Intermediates Co,China,0.81,0.84,35,Provisional,Active Pharmaceutical Ingredient,15,export@sinopharmchem.cn
+SUP-006,MedPackaging Global Ltd,Ireland,0.95,0.97,16,Certified,Primary Packaging;Secondary Packaging,45,orders@medpackaging.ie
+SUP-007,Nordic Sterile Solutions ApS,Denmark,0.97,0.98,18,Certified,Excipient;Cold Chain,45,operations@nordicsterile.dk
+SUP-008,Bharat Blister & Foils Pvt,India,0.89,0.89,15,Certified,Primary Packaging,30,sales@bharatfoils.in
+
