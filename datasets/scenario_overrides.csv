@@ -1,0 +1,14 @@
+scenario_id,change_type,target_id,key,value
+surge,demand_tail,MED-AZI500,,45|62|78
+combined,demand_tail,MED-AZI500,,45|62|78
+disruption,po_delay,PO-8841,,16
+disruption,supplier_hist_tail,S-02,,0.62|0.55
+disruption,supplier_capacity,S-02,API-AZI,30
+combined,po_delay,PO-8841,,16
+combined,supplier_hist_tail,S-02,,0.62|0.55
+combined,supplier_capacity,S-02,API-AZI,30
+expiry,demand_tail,MED-AZI500,,14|12|11|10
+quality,lot_status,L-AZI-102,,Rejected
+quality,supplier_qualification,S-02,,Suspended
+combined,lot_status,L-AZI-102,,Rejected
+combined,supplier_qualification,S-02,,Suspended

@@ -1,0 +1,3 @@
+po_id,supplier_id,api_id,qty_kg,eta_date,delay_days,status
+PO-8841,S-02,API-AZI,40,2026-11-07,0,Open
+PO-8850,S-03,API-PCM,100,2026-11-04,0,Open

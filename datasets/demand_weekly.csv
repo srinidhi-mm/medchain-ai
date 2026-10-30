@@ -1,0 +1,79 @@
+week_start,medicine_id,medicine_name,demand_k_tablets
+2026-05-04,MED-AZI500,Azithromycin 500 mg Tablets,28.9
+2026-05-04,MED-MET500,Metformin HCl 500 mg Tablets,60.2
+2026-05-04,MED-PCM500,Paracetamol 500 mg Tablets,80.8
+2026-05-11,MED-AZI500,Azithromycin 500 mg Tablets,28.0
+2026-05-11,MED-MET500,Metformin HCl 500 mg Tablets,59.5
+2026-05-11,MED-PCM500,Paracetamol 500 mg Tablets,79.0
+2026-05-18,MED-AZI500,Azithromycin 500 mg Tablets,28.6
+2026-05-18,MED-MET500,Metformin HCl 500 mg Tablets,60.0
+2026-05-18,MED-PCM500,Paracetamol 500 mg Tablets,80.2
+2026-05-25,MED-AZI500,Azithromycin 500 mg Tablets,30.3
+2026-05-25,MED-MET500,Metformin HCl 500 mg Tablets,61.2
+2026-05-25,MED-PCM500,Paracetamol 500 mg Tablets,83.5
+2026-06-01,MED-AZI500,Azithromycin 500 mg Tablets,31.7
+2026-06-01,MED-MET500,Metformin HCl 500 mg Tablets,62.3
+2026-06-01,MED-PCM500,Paracetamol 500 mg Tablets,86.4
+2026-06-08,MED-AZI500,Azithromycin 500 mg Tablets,31.9
+2026-06-08,MED-MET500,Metformin HCl 500 mg Tablets,62.4
+2026-06-08,MED-PCM500,Paracetamol 500 mg Tablets,86.7
+2026-06-15,MED-AZI500,Azithromycin 500 mg Tablets,30.6
+2026-06-15,MED-MET500,Metformin HCl 500 mg Tablets,61.5
+2026-06-15,MED-PCM500,Paracetamol 500 mg Tablets,84.2
+2026-06-22,MED-AZI500,Azithromycin 500 mg Tablets,28.9
+2026-06-22,MED-MET500,Metformin HCl 500 mg Tablets,60.2
+2026-06-22,MED-PCM500,Paracetamol 500 mg Tablets,80.8
+2026-06-29,MED-AZI500,Azithromycin 500 mg Tablets,28.0
+2026-06-29,MED-MET500,Metformin HCl 500 mg Tablets,59.5
+2026-06-29,MED-PCM500,Paracetamol 500 mg Tablets,79.0
+2026-07-06,MED-AZI500,Azithromycin 500 mg Tablets,28.6
+2026-07-06,MED-MET500,Metformin HCl 500 mg Tablets,60.0
+2026-07-06,MED-PCM500,Paracetamol 500 mg Tablets,80.3
+2026-07-13,MED-AZI500,Azithromycin 500 mg Tablets,30.3
+2026-07-13,MED-MET500,Metformin HCl 500 mg Tablets,61.2
+2026-07-13,MED-PCM500,Paracetamol 500 mg Tablets,83.6
+2026-07-20,MED-AZI500,Azithromycin 500 mg Tablets,31.7
+2026-07-20,MED-MET500,Metformin HCl 500 mg Tablets,62.3
+2026-07-20,MED-PCM500,Paracetamol 500 mg Tablets,86.5
+2026-07-27,MED-AZI500,Azithromycin 500 mg Tablets,31.9
+2026-07-27,MED-MET500,Metformin HCl 500 mg Tablets,62.4
+2026-07-27,MED-PCM500,Paracetamol 500 mg Tablets,86.7
+2026-08-03,MED-AZI500,Azithromycin 500 mg Tablets,30.6
+2026-08-03,MED-MET500,Metformin HCl 500 mg Tablets,61.4
+2026-08-03,MED-PCM500,Paracetamol 500 mg Tablets,84.1
+2026-08-10,MED-AZI500,Azithromycin 500 mg Tablets,29
+2026-08-10,MED-MET500,Metformin HCl 500 mg Tablets,60
+2026-08-10,MED-PCM500,Paracetamol 500 mg Tablets,80
+2026-08-17,MED-AZI500,Azithromycin 500 mg Tablets,31
+2026-08-17,MED-MET500,Metformin HCl 500 mg Tablets,62
+2026-08-17,MED-PCM500,Paracetamol 500 mg Tablets,83
+2026-08-24,MED-AZI500,Azithromycin 500 mg Tablets,30
+2026-08-24,MED-MET500,Metformin HCl 500 mg Tablets,61
+2026-08-24,MED-PCM500,Paracetamol 500 mg Tablets,81
+2026-08-31,MED-AZI500,Azithromycin 500 mg Tablets,32
+2026-08-31,MED-MET500,Metformin HCl 500 mg Tablets,63
+2026-08-31,MED-PCM500,Paracetamol 500 mg Tablets,84
+2026-09-07,MED-AZI500,Azithromycin 500 mg Tablets,30
+2026-09-07,MED-MET500,Metformin HCl 500 mg Tablets,60
+2026-09-07,MED-PCM500,Paracetamol 500 mg Tablets,82
+2026-09-14,MED-AZI500,Azithromycin 500 mg Tablets,29
+2026-09-14,MED-MET500,Metformin HCl 500 mg Tablets,61
+2026-09-14,MED-PCM500,Paracetamol 500 mg Tablets,80
+2026-09-21,MED-AZI500,Azithromycin 500 mg Tablets,31
+2026-09-21,MED-MET500,Metformin HCl 500 mg Tablets,62
+2026-09-21,MED-PCM500,Paracetamol 500 mg Tablets,83
+2026-09-28,MED-AZI500,Azithromycin 500 mg Tablets,30
+2026-09-28,MED-MET500,Metformin HCl 500 mg Tablets,60
+2026-09-28,MED-PCM500,Paracetamol 500 mg Tablets,85
+2026-10-05,MED-AZI500,Azithromycin 500 mg Tablets,31
+2026-10-05,MED-MET500,Metformin HCl 500 mg Tablets,61
+2026-10-05,MED-PCM500,Paracetamol 500 mg Tablets,81
+2026-10-12,MED-AZI500,Azithromycin 500 mg Tablets,30
+2026-10-12,MED-MET500,Metformin HCl 500 mg Tablets,62
+2026-10-12,MED-PCM500,Paracetamol 500 mg Tablets,82
+2026-10-19,MED-AZI500,Azithromycin 500 mg Tablets,29
+2026-10-19,MED-MET500,Metformin HCl 500 mg Tablets,61
+2026-10-19,MED-PCM500,Paracetamol 500 mg Tablets,84
+2026-10-26,MED-AZI500,Azithromycin 500 mg Tablets,30
+2026-10-26,MED-MET500,Metformin HCl 500 mg Tablets,60
+2026-10-26,MED-PCM500,Paracetamol 500 mg Tablets,83
