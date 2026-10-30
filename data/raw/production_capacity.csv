@@ -1,9 +1,0 @@
-line_id,line_name,dosage_form,daily_capacity_units,changeover_hours,efficiency_rate,maintenance_schedule,status
-LINE-TAB-1,High-Speed Tablet Compression Line 1,Tablet,45000,4.0,0.92,Sundays 06:00-14:00,Active
-LINE-TAB-2,Flexible Tablet Compression Line 2,Tablet,35000,3.5,0.88,Saturdays 14:00-22:00,Active
-LINE-CAP-1,Encapsulation & Polishing Suite 1,Capsule,25000,5.0,0.90,Every 2nd Sunday,Active
-LINE-STER-1,Sterile Vial Filling & Lyophilization Line,Injection,8000,8.0,0.95,Bi-weekly Sanitization,Active
-LINE-INHAL-1,Metered Dose Inhaler Assembly Line,Inhaler,12000,6.0,0.87,Mondays 08:00-12:00,Active
-LINE-PACK-1,Continuous Blister Packaging Line 1,Packaging,60000,2.0,0.94,Fridays 18:00-22:00,Active
-LINE-PACK-2,Cartoning & Serialization Line 2,Packaging,55000,2.5,0.93,Sundays 08:00-16:00,Active
-
