@@ -1,0 +1,2 @@
+"""MedChain AI frontend package."""
+
