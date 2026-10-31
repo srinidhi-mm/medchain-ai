@@ -1,0 +1,5 @@
+api_id,name,cas_number,pharmacopoeia,shelf_life_months,storage
+API-PCM,Paracetamol IP,103-90-2,IP,36,"Below 30 C, dry"
+API-AZI,Azithromycin Dihydrate IP,117772-70-0,IP,36,"15-25 C, dry, protected from light"
+API-MET,Metformin Hydrochloride IP,1115-70-4,IP,48,"Below 30 C, dry"
+API-DOX,Doxycycline Hyclate IP,24390-14-5,IP,36,"Below 25 C, dry, protected from light"

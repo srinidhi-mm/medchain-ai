@@ -1,0 +1,5 @@
+medicine_id,name,api_id,kg_api_per_1000_tablets,finished_stock_k_tablets,strength_mg,schedule,pack,mrp_inr_per_strip
+MED-PCM500,Paracetamol 500 mg Tablets,API-PCM,0.5,330,500,OTC,15 tablets/strip,31.5
+MED-AZI500,Azithromycin 500 mg Tablets,API-AZI,0.5,50,500,Schedule H,5 tablets/strip,118.0
+MED-MET500,Metformin HCl 500 mg Tablets,API-MET,0.5,200,500,Schedule H,20 tablets/strip,24.0
+MED-DOX100,Doxycycline 100 mg Capsules,API-DOX,0.1,40,100,Schedule H,10 capsules/strip,62.0

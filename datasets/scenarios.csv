@@ -1,0 +1,8 @@
+scenario_id,name,description
+baseline,0. Baseline operations,Steady demand and healthy supply. Reference point for comparison.
+surge,1. Demand Surge,"Azithromycin demand climbs sharply over three weeks, threatening a stockout."
+disruption,2. Supplier Disruption,Bharat Drugs delays Azithromycin PO-8841 by 16 days and cuts capacity.
+expiry,3. Expiry Risk,Azithromycin demand falls while lot L-AZI-101 nears expiry; FEFO limits wastage.
+quality,4. Quality Rejection,Lot L-AZI-102 is rejected after use; downstream batches are traced.
+combined,5. Combined Disruption,"Surge, supplier delay and a rejected lot together, under a tight budget."
+lumpy,6. Lumpy Demand Burst,Doxycycline sells in outbreak bursts with many zero days; a fresh burst hits while stock is thin.

@@ -1,0 +1,19 @@
+batch_id,location,city,units_k,dispatch_date,status
+B-AZI-2401,Bengaluru Central DC,Bengaluru,25,2026-09-12,Shipped
+B-AZI-2401,Hyderabad DC,Hyderabad,15,2026-09-13,Shipped
+B-AZI-2401,Main warehouse,Hosur,20,2026-09-04,In stock
+B-AZI-2402A,Chennai DC,Chennai,20,2026-10-04,Shipped
+B-AZI-2402A,Pune DC,Pune,10,2026-10-05,Shipped
+B-AZI-2402A,Main warehouse,Hosur,20,2026-09-29,In stock
+B-AZI-2402B,Mumbai DC,Mumbai,20,2026-10-04,Shipped
+B-AZI-2402B,Kolkata DC,Kolkata,12,2026-10-05,Shipped
+B-AZI-2402B,Main warehouse,Hosur,18,2026-09-29,In stock
+B-PCM-2403,Bengaluru Central DC,Bengaluru,60,2026-10-08,Shipped
+B-PCM-2403,Delhi DC,Delhi,50,2026-10-09,Shipped
+B-PCM-2403,Main warehouse,Hosur,50,2026-10-04,In stock
+B-MET-2404,Hyderabad DC,Hyderabad,30,2026-10-18,Shipped
+B-MET-2404,Chennai DC,Chennai,20,2026-10-19,Shipped
+B-MET-2404,Main warehouse,Hosur,30,2026-10-14,In stock
+B-DOX-2408,Bengaluru Central DC,Bengaluru,50,2026-10-12,Shipped
+B-DOX-2408,Pune DC,Pune,30,2026-10-13,Shipped
+B-DOX-2408,Main warehouse,Hosur,40,2026-10-09,In stock

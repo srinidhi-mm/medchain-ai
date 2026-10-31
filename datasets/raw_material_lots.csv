@@ -1,0 +1,11 @@
+lot_id,api_id,supplier_id,received_kg,received_date,mfg_date,expiry_date,quality_status,qc_release_date,coa_ref,storage
+L-AZI-101,API-AZI,S-01,60,2026-07-04,2024-12-01,2026-12-09,Released,2026-07-07,COA/L-AZI-101,"Warehouse A, 15-25 C"
+L-AZI-102,API-AZI,S-02,70,2026-07-29,2026-04-15,2028-04-04,Released,2026-08-01,COA/L-AZI-102,"Warehouse A, 15-25 C"
+L-PCM-007,API-PCM,S-03,200,2026-07-04,2026-01-05,2028-01-05,Released,2026-07-07,COA/L-PCM-007,"Warehouse B, below 30 C"
+L-PCM-009,API-PCM,S-05,18,2025-09-27,2023-10-28,2026-10-20,Released,2025-09-30,COA/L-PCM-009,"Warehouse B, below 30 C"
+L-PCM-010,API-PCM,S-03,100,2026-09-17,2026-09-02,2028-09-01,Released,2026-09-20,COA/L-PCM-010,"Warehouse B, below 30 C"
+L-MET-01,API-MET,S-03,120,2026-06-04,2024-03-26,2026-11-29,Released,2026-06-07,COA/L-MET-01,"Warehouse B, below 30 C"
+L-MET-02,API-MET,S-05,100,2026-08-23,2026-08-03,2028-08-02,Released,2026-08-26,COA/L-MET-02,"Warehouse B, below 30 C"
+L-MET-QC,API-MET,S-03,50,2026-10-29,2026-10-22,2028-10-01,Quarantine,,COA/L-MET-QC,Quarantine cage Q1
+L-DOX-301,API-DOX,S-03,20,2026-07-14,2026-04-15,2028-05-14,Released,2026-07-17,COA/L-DOX-301,"Warehouse B, below 25 C"
+L-DOX-302,API-DOX,S-05,3,2026-09-22,2026-08-03,2028-08-12,Released,2026-09-25,COA/L-DOX-302,"Warehouse B, below 25 C"
